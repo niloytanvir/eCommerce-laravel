@@ -46,6 +46,8 @@ $total= ProductController::cartItem();
                 </li>
                 @else
                 <li><a href="/login">Login</a></li>
+                <li><a href="/register">Signup</a></li>
+
                 @endif
 
             </ul>
